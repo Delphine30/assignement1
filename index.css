@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.wrapper{
+    display: block;
+}
+.upper{
+    width: 100%;
+    height: 400px;
+    background: purple;
+    border-radius: 0% 0% 150% 150%/0% 0% 40% 40%;
+    position: absolute;
+}
+#ijambo{
+    color:white;
+    font-family: century Gothic;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#amagambo{
+    color: white;
+    margin-left: 40%;
+    font-size: 30px;
+}
+#umurongo{
+    text-decoration: underline;
+    text-decoration-color: rgb(136, 216, 136);
+    margin-left: 10px;
+    font-size: 30px;
+}
+#btn{
+    width: 150px;
+    height: 50px;
+    background: rgb(136, 216, 136);
+    color: black;
+    margin-left: 40%;
+    margin-top: 100px;
+}
+#right{
+    margin-left: 80%;
+    font-size: 25px;
+    color:white;
+    text-decoration: underline;
+    text-decoration-color:rgb(136, 216, 136) ;
+    margin-top: -100px;
+    text-underline-offset: 10px;
+}
+.middle{
+    width: 100%;
+    height: 400px;
+     background: rgb(163, 128, 163);
+    padding-top: 700px;
+    display: flex;
+}
+.one{
+    width: 300px;
+    height: 300px;
+    background: pink;
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 40px;
+}
+#t{
+ 
+    font-size: 18px;
+    padding-left:10px;
+    padding-top: 10px;
+}
+.circle1{
+    
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: 1px solid rgb(163, 128, 163); 
+        margin-left: 50px;
+        margin-top:20px;   
+}
+.two{
+    width: 300px;
+    height: 300px;
+    background:rgb(36, 32, 36);
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 40px; 
+    margin-left: 30%;  
+}
+#s{
+    padding-top: 10px;
+    font-size: 25px;
+    padding-left:10px;
+}
+.circle2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid rgb(163, 128, 163);
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+.three{
+    width: 300px;
+    height: 300px;
+    background:rgb(36, 32, 36);
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 800px; 
+    margin-left: 60%;  
+}
+#w{
+    padding-top: 10px;
+    font-size: 18px;
+    padding-left:10px;
+}    
+.circle3{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid rgb(163, 128, 163);
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+#time{
+font-size:30px;
+} 
+#data{
+font-size: 30px;
+}
+#want{
+font-size: 30px;
+} 
+.para1{
+margin-left: 40px;
+font-size: 18px;
+margin-top: 40%;
+} 
+.para2{
+
+        margin-left: 40px;
+        font-size: 18px;
+        margin-top: 40%;
+}
+.para3{
+    margin-left: 40px;
+    font-size: 18px;
+    margin-top: 40%;
+}
